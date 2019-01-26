@@ -12,7 +12,7 @@ humantime: "10:00 am - 5:00 pm"    # human-readable times for the workshop (e.g.
 startdate: 2019-01-26      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-01-27        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Julia Fowler", "Jennifer Shelton", "Kathleen Moore" ] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Karoline Dubin", "Yamuna Devi Gangadharan", "Esther Marie Jackson"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Karoline Dubin", "Yamuna Devi Gangadharan", "Esther Marie Jackson", "Laura Yu"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["jfowler@stsci.edu", "jshelton@nygenome.org", "kdmoore@email.wm.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/y1gQZIsuQR             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 ---
